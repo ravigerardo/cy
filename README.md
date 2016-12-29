@@ -1,7 +1,7 @@
 # Cy
 //Copia archivos de forma "transparente"
 
-Cy es un simple script que al ser ejecutado y posteriormente enviado a segundo plano permite copiar de forma discreta la información de los dispositivos de almacenamiento que se conecte a nuestro ordenador.
+Cy es un simple script que al ser ejecutado, y posteriormente enviado a segundo plano, permite copiar de forma discreta la información de los dispositivos de almacenamiento que se conecte a nuestro ordenador (mediante USB).
 
 1) Para dar permisos a cy: $ chmod +777 cy.sh                                                                            
 2) Para ejecutar cy: sudo ./cy.sh                                                                                             
