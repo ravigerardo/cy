@@ -1,4 +1,4 @@
-# cy
+# Cy
 //Copia archivos de forma "transparente"
 
 Cy es un simple script que al ser ejecutado y posteriormente enviado a segundo plano permite copiar de forma discreta la información de los dispositivos de almacenamiento que se conecte a nuestro ordenador.
