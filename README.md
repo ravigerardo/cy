@@ -19,5 +19,5 @@ Cy es un simple script que al ser ejecutado, y posteriormente enviado a segundo 
  #read USR                                                                            
 3.2) Descomentamos la linea 4 y asignamos el nombre del usuario entre las comillas (en el código de cy):                      
  USR="nombre de usuario"                                                                                               
-$4) Cy hace una copia de los archivos de forma normal, por lo cual requiere cierto tiempo                                      
+4) Cy hace una copia de los archivos de forma normal, por lo cual requiere cierto tiempo                                      
 dependiendo la cantidad de archivos a copiar.
