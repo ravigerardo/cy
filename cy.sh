@@ -10,5 +10,3 @@ done
 cd /media/$USR
 test -d /media/$USR/* && mkdir /home/$USR/$DIR ; sudo cp -r /media/$USR/* /home/$USR/$DIR
 sudo chmod 777 -R /home/$USR/$DIR/*
-cd -
-sudo chmod 777 -R /home/$USR/$DIR
