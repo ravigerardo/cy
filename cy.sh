@@ -1,7 +1,7 @@
 #! /bin/bash
 #echo "Usuario: "
 #read USR
-USR="ravi"
+USR="username"
 echo "Directorio: "
 read DIR
 while [ ! -d /media/$USR/* ]; do
