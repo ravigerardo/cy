@@ -11,10 +11,10 @@ Cy es un simple script que al ser ejecutado, y posteriormente enviado a segundo 
 6) Listo, cy copia los archivos y se detiene automáticamente                                                  
 
 #Nota
-1) Si deseamos detener cy antes de que realice una copia lo hacemos con: `$ CTRL+c`                          
+1) Si deseamos detener cy antes de que realice una copia lo hacemos con: `CTRL+c`                          
 2) Podemos ver que hay corriendo en segundo plano con: `$ bg`                                     
 3) Podemos asignar un valor predeterminado del nombre de usuario:                                                                
-3.1)Comentamos las lineas 2 y 3 con `#` (en el código de cy):                                                                   
+3.1) Comentamos las lineas 2 y 3 con `#` (en el código de cy):                                                                   
 
     #echo "Usuario: "
     #read USR
